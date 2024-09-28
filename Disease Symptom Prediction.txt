@@ -1,0 +1,2 @@
+Disease Symptom Prediction
+https://www.kaggle.com/code/mdnadeemakhtar/disease-prediction#Random-Forest-Classifier
